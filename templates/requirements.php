@@ -1,5 +1,5 @@
 <?php include'quiz/header.php'; ?>
-<div id="container" class="quiz">
+<div id="container" class="quiz with-menu">
 <div class="row row-offcanvas row-offcanvas-right">
 <div class="col-xs-12">
 <p class="pull-right visible-xs">

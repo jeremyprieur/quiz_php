@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<div id="container" class="quiz">
+<div id="container" class="quiz with-menu">
         <div class="row">
             <div class="col-md-5 col-md-offset-2">
                 <h2>The Results Page For <span><?php echo $user->getName();  ?></span></h2>

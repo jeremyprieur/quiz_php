@@ -1,7 +1,7 @@
 <?php
 include'header.php';
 ?>
-<div id="container" class="quiz">
+<div id="container" class="quiz with-menu">
         <div class="row">
           <div id="intro" class="col-md-8 col-md-offset-2">
               

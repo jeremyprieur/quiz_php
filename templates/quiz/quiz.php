@@ -3,7 +3,7 @@
     $numquestions = $quiz->countQuestions();
     $leadersToShow = 10;
 ?>
-    <div id="container" class="quiz">
+    <div id="container" class="quiz with-menu">
       <div class="row">
           <div id="intro" class="col-md-6 col-md-offset-3">
               <?php if (isset($error)) { echo '<div id="updater" class="alert alert-danger">'.$error

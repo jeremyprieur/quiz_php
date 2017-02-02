@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<div id="container" class="quiz">
+<div id="container" class="quiz with-menu">
     <div class="row">
         <div class="col-md-4 col-md-offset-4">
         <?php
